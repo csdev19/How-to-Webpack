@@ -32,3 +32,27 @@ En un contexto mas amplio: Tiene como objetivo principal agrupar los archivos de
 
 Ir al siguiente documento [webpack vs gulp vs grunt]().
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Colaboradores:
+
+- Cristian F. Sotomayor G. (Autor - Creador del repositorio)
+
+
+
