@@ -1,0 +1,18 @@
+{
+  "name": "configuracion-total",
+  "version": "1.0.0",
+  "description": "Este sera po decirlo asi el proyecto final o el resultado que tendremos de todo lo que iremos aprendiendo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https//github/pystudent1913"
+  },
+  "author": "Cristian Sotomayor",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.20.2"
+  }
+}
