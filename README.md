@@ -36,7 +36,9 @@ Ir al siguiente documento [webpack vs gulp vs grunt]().
 
 
 
+## Para usar todo lo que aprendamos
 
+Creare una carpeta llamada **configuracion total** donde pondre una configuracion total.
 
 
 
