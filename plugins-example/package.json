@@ -1,0 +1,22 @@
+{
+  "name": "plugins-example",
+  "version": "1.0.0",
+  "description": "este sera nuestra carpeta ejemplo de como usar un plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack index.js --output bundle.js --mode development",
+    "build:local": "webpack --mode development",
+    "build:css": "webpack --mode development",
+    "build:extract:css": "webpack --mode development"
+  },
+  "author": "Cristian Sotomayor",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "mini-css-extract-plugin": "^0.4.4",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
